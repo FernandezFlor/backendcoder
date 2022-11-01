@@ -1,0 +1,32 @@
+[
+    {
+        "title":"remera",
+        "price":1500,
+        "thumbnail":"remera.png",
+        "id":0
+        },
+    {
+        "title":"pantalon",
+        "price":1100,
+        "thumbnail":"pantalon.png",
+        "id":1
+        },
+    {
+        "title":"pollera",
+        "price":1700,
+        "thumbnail":"pollera.png",
+        "id":2
+        },
+    {
+        "title":"buzo",
+        "price":2500,
+        "thumbnail":"buzo.png"
+        "id":3
+        },
+    {
+        "title":"campera",
+        "price":3000,
+        "thumbnail":"campera.png",
+        "id":4
+     }
+]
